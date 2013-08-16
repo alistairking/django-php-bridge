@@ -1,0 +1,4 @@
+build/
+dist/
+django_php_bridge.egg-info/
+django_php_bridge/__init__.pyc
